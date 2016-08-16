@@ -1,0 +1,14 @@
+layout_spectrum: 0.12888335739262402
+typography_spectrum: 0.644101524958387
+color:
+  brandStrength: 0.9555249945260584
+  lightness: 0.21414385666139424
+  saturation: 0.2403612034395337
+  rhythmicContrast: 0.6856241812929511
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: inventiveOrigins
